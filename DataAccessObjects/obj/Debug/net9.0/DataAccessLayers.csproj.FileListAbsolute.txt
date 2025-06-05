@@ -1,0 +1,4 @@
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayers.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayers.AssemblyInfoInputs.cache
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayers.AssemblyInfo.cs
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessLayers.csproj.CoreCompileInputs.cache
