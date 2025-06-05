@@ -1,0 +1,4 @@
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+E:\FPT\2025\Summer_2025\PRN212\Assignment\Asignment1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
